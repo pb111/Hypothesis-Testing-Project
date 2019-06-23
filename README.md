@@ -122,6 +122,28 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 ===============================================================================
 
+## 7. One-tailed and two-tailed test
+
+-	We can break down the hypothesis test into one-tailed and two-tailed test.
+
+### One-tailed test
+
+-	When the given statistical hypothesis tests only one value like Ho: µ1 = µ2, it is called the **one-tailed test**.
+-	A one-tailed test is a statistical test in which the critical area of a distribution is one-sided so that it is either greater than or less than a certain value, but not both. 
+-	If the sample being tested falls into the one-sided critical area, the alternate hypothesis will be accepted instead of the null hypothesis.
+-	One-tailed test is also known as a directional hypothesis or directional test.
+
+
+### Two-tailed test
+
+-	When the given hypothesis assumes a less than or greater than value, it is called the **two-tailed test**.
+-	In statistics, a two-tailed test is a method in which the critical area of a distribution is two-sided and tests whether a sample is greater than or less than a certain range of values.
+-	It is used in null-hypothesis testing and testing for statistical significance.
+-	If the sample being tested falls into either of the critical areas, the alternative hypothesis is accepted instead of the null hypothesis.
+-	By convention two-tailed tests are used to determine significance at the 5% level, meaning each side of the distribution is cut at 2.5%.
+
+===============================================================================
+
 
 
 
