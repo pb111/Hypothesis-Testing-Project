@@ -78,9 +78,27 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 ===============================================================================
 
+## 3. p-value
+
+-	The p-value is the probability value within a hypothesis test representing the probability of the occurrence of a given event.
+-	The p-value is the probability that a given result would occur under the null hypothesis. 
+-	It is the probability of finding the observed results when the null hypothesis (H0) is true.
+-	The p-value does not provide the probability that either hypothesis is correct.
+-	A p value is used to help you support or reject the null hypothesis. 
+-	The p value is the evidence against a null hypothesis. 
+-	The smaller the p-value, the stronger the evidence that you should reject the null hypothesis.
+-	In a hypothesis test, we compare the p value from the test to the alpha level.
+-	p-values are calculated using p-value tables.
 
 ===============================================================================
 
+## 4. Significance level
+
+-	Significance level is the probability of rejecting the null hypothesis (Ho), when it is true.
+-	It is denoted by alpha or α.
+-	The most practical value of significance level (α), accepted across all business cases is 5%. Other values of significance level could be 1% or 0.5%.
+-	This 5% is called **Significance level** also known as alpha level (symbolized as α). 
+-	It means that if random chance probability is less than 5% then we can conclude that there is difference in behaviour of two different population means.
 
 ===============================================================================
 
