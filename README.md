@@ -165,6 +165,20 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 ===============================================================================
 
+## 9. Applications of hypothesis testing
+
+The real world applications of hypothesis testing are listed below:-
+
+1.	Testing whether more men than women suffer from diabetes or other disease.
+
+2.	Establishing authorship of documents.
+
+3.	Deciding whether hospital carpeting results in more infections.
+
+4.	Selecting the best means to stop smoking.
+
+5.	Testing the claims of handwriting analysts.
+
 
 ===============================================================================
 
