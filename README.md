@@ -145,6 +145,27 @@ There are various steps in performing hypothesis testing. These are as follows:-
 ===============================================================================
 
 
+===============================================================================
+
+
+===============================================================================
+
+## 10. References
+
+The work done in this project is inspired from the following books and websites:-
+
+1.	Think Stats – Exploratory Data Analysis in Python by Allen B. Downey 
+
+2.	Udemy course – Statistics for Data Science and Business Analysis
+
+3.	https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/
+
+4.	https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+
+5.	https://www.statisticssolutions.com/hypothesis-testing/
+
+6.	https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/hypothesis-testing/
+
 
 
 
