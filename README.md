@@ -53,3 +53,26 @@ There are various steps in performing hypothesis testing. These are as follows:-
 -	Based on the significance level, we make a decision to reject or not reject the null hypothesis (Ho).
 -	If the significance value is less than the predetermined significance value, then we should reject the null hypothesis. 
 -	If the significance value is greater than the predetermined significance value, then we should not reject the null hypothesis. 
+
+===============================================================================
+
+
+## 2. Null and alternate hypothesis
+
+-	While carry out hypothesis testing, we define hypothesis.
+-	A hypothesis is an assumption about the population parameter. 
+-	We define two types of hypothesis – **Null hypothesis** and **Alternate hypothesis**.
+
+### Null Hypothesis (Ho)
+
+-	Null hypothesis is a statistical hypothesis which assumes that the difference in observations is due to a random factor. 
+-	It is denoted by **Ho**. 
+-	Suppose the null hypothesis is **HO : µ1 = µ2**. 
+-	It says that there is no difference between the two population means.
+
+### Alternate Hypothesis (H1)
+
+-	Alternate hypothesis is the opposite of null hypothesis. 
+-	It is denoted by H1. 
+-	The alternate hypothesis assumes that difference in observations are the result of a real effect.
+
