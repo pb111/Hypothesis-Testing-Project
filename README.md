@@ -54,6 +54,11 @@ There are various steps in performing hypothesis testing. These are as follows:-
 -	If the significance value is less than the predetermined significance value, then we should reject the null hypothesis. 
 -	If the significance value is greater than the predetermined significance value, then we should not reject the null hypothesis. 
 
+
+- The diagram below demonstrates how hypothesis testing works.
+
+# ![Hypothesis testing mechanism]
+
 ===============================================================================
 
 
@@ -138,6 +143,11 @@ There are various steps in performing hypothesis testing. These are as follows:-
 -	It is denoted by β.
 -	This type of error produces a false positive. 
 
+
+- The below diagram demonstrates Type I and Type II errors.
+
+# ![Type I and Type II error]
+
 ===============================================================================
 
 ## 7. One-tailed and two-tailed test
@@ -159,6 +169,12 @@ There are various steps in performing hypothesis testing. These are as follows:-
 -	It is used in null-hypothesis testing and testing for statistical significance.
 -	If the sample being tested falls into either of the critical areas, the alternative hypothesis is accepted instead of the null hypothesis.
 -	By convention two-tailed tests are used to determine significance at the 5% level, meaning each side of the distribution is cut at 2.5%.
+
+
+- The diagram below shows the difference between one-tailed and two-tailed test.
+
+# ![One-tailed and two-tailed test]
+
 
 ===============================================================================
 
