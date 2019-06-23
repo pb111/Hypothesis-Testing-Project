@@ -76,3 +76,29 @@ There are various steps in performing hypothesis testing. These are as follows:-
 -	It is denoted by H1. 
 -	The alternate hypothesis assumes that difference in observations are the result of a real effect.
 
+===============================================================================
+
+
+===============================================================================
+
+
+===============================================================================
+
+## 5. Confidence interval
+
+-	Confidence intervals were introduced in statistics by Jerzy Neyman in a paper published in 1937.
+-	A confidence interval is a range of values within which our true value may lie. 
+-	It is a type of interval estimate, computed from the observed statistics of the distribution. 
+-	This interval estimate gives us a range of values in which the population statistic may lie.
+-	So, confidence intervals consist of a range of potential values of the unknown population parameter.
+-	The confidence interval has an associated confidence level that quantifies the level of confidence that the parameter lies in the interval.
+-	The confidence level is designated prior to examining the data. Most commonly the 95% confidence level is used. However, other confidence levels like 90% and 99% can also be used.
+-	There are various factors which affect the width of the confidence interval. They include the size of the sample, the confidence level and the variability in the sample.
+-	A larger sample will tend to produce a better estimate of the population parameter, when all other factors being equal.
+-	A higher confidence level will tend to produce a higher confidence interval.
+
+===============================================================================
+
+
+
+
