@@ -99,6 +99,31 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 ===============================================================================
 
+## 6. Type I and Type II errors
+
+-	Two types of errors occur when we conduct hypothesis testing.
+-	These are Type I error and Type II error.
+
+### Type I error
+
+-	A **Type I error** is a statistical term that describes the error that occurs when we reject the null hypothesis that is actually true. 
+-	So, we reject the null hypothesis (Ho), when it is true.
+-	Then this type of error is called **Type I error**.
+-	It is denoted by α.
+
+
+### Type II error
+
+-	A **Type II error** is a statistical term used within the context of hypothesis testing that describes the error that occurs when one fails to reject a null hypothesis that is actually false. 
+-	So, we accept the null hypothesis (Ho), when it is false.
+-	Then this type of error is called **Type II error**.
+-	It is denoted by β.
+-	This type of error produces a false positive. 
+
+===============================================================================
+
+
+
 
 
 
