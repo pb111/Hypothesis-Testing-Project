@@ -13,8 +13,8 @@
 5.	Confidence interval
 6.	Type I and Type II errors
 7.	One-tailed and two-tailed test
-8.	z-value  
-9.	Decision criteria
+8.	Decision criteria
+9.  Applications of hypothesis testing
 10.	References
 
 ===============================================================================
