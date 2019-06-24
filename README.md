@@ -173,7 +173,7 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 - The diagram below shows the difference between one-tailed and two-tailed test.
 
-# ![One-tailed and two-tailed test]
+![One-tailed and two-tailed test](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/Images/One-tailed%20and%20two-tailed%20test.jpg)
 
 
 ===============================================================================
