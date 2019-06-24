@@ -146,7 +146,7 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 - The below diagram demonstrates Type I and Type II errors.
 
-# ![Type I and Type II error]
+![Type I and Type II error](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/Images/Type%20I%20and%20II%20errors.png)
 
 ===============================================================================
 
