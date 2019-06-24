@@ -1,6 +1,6 @@
 # Hypothesis Testing Project
 
-**Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards `hypothesis testing`. In this project, I have discussed `hypothesis testing`, `p-value`, `significance level`, `types of errors in hypothesis testing`, `one-tailed test`, `two-tailed test` and `z  test`. 
+**Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards `hypothesis testing`. In this project, I have discussed `hypothesis testing`, `p-value`, `significance level`, `types of errors in hypothesis testing`, `one-tailed test` and `two-tailed test`. 
 
 ===============================================================================
 
@@ -178,6 +178,45 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 ===============================================================================
 
+## 8. Decision criteria
+
+We have carried out a hypothesis test. Now, it is time for decision-making. The decision-making means to decide whether to reject or do not reject the null hypothesis (Ho). There are two ways to decide whether we should reject or do not reject the null hypothesis (Ho). These ways are discussed below:-
+
+
+### Decision criteria – first method
+
+-	Decide which test is appropriate and calculate the test statistic.
+-	Derive the distribution of the test statistic under the null hypothesis from the assumptions.
+-	Select a significance level (α), a probability threshold below which the null hypothesis will be rejected. 
+- Common values are 5% and 1%.
+-	Compute from the observations the observed value tobs of the test statistic.
+-	The decision rule is to reject the null hypothesis H0 if the observed value tobs is in the critical region or fail to reject the hypothesis otherwise.
+-	If tobs > tcritical  => Reject Ho  and accept H1
+-	If tobs < tcritical  => Accept Ho  
+
+
+This is clearly explained with the following diagram-
+# ! [Ho rejection condition]
+
+
+### Decision criteria – second method
+
+An alternative decision process which is commonly used is as follows:-
+
+-	Compute from the observations the observed value tobs of the test statistic. 
+-	Calculate the p-value. This is the probability, under the null hypothesis, of sampling a test statistic at least as extreme as that which was observed. 
+-	Reject the null hypothesis (Ho), in favour of the alternative hypothesis, if and only if the p-value is less than the significance level (the selected probability) threshold.
+-	p-value < significance-level (α) => Reject Ho and accept H1.
+-	p-value > significance-level (α) => Accept Ho
+
+
+### Important points about decision criteria
+
+-	We will never say that we accept the null hypothesis (Ho).
+-	Instead, we should say that we do not have sufficient evidence to reject the null hypothesis (Ho). 
+-	So, our null hypothesis (Ho) is true, or
+-	We should say that we have sufficient evidence to reject the null hypothesis (Ho). 
+-	So, our null hypothesis (Ho) is false and alternate hypothesis is true (H1).
 
 ===============================================================================
 
