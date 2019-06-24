@@ -198,7 +198,7 @@ We have carried out a hypothesis test. Now, it is time for decision-making. The 
 This is clearly explained with the following diagram-
 
 
-# ! [Ho rejection condition](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/Images/Reject%20Ho%20condition.png)
+![Ho rejection condition](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/Images/Reject%20Ho%20condition.png)
 
 
 ### Decision criteria – second method
