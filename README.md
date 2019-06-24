@@ -57,7 +57,7 @@ There are various steps in performing hypothesis testing. These are as follows:-
 
 - The diagram below demonstrates how hypothesis testing works.
 
-# ![Hypothesis testing mechanism]
+![Hypothesis testing mechanism](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/Images/Hypothesis%20testing%20works.jpg)
 
 ===============================================================================
 
