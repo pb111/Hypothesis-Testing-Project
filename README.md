@@ -4,7 +4,7 @@
 
 ===============================================================================
 
-## Table of contents
+## Table of content
 
 1.	Introduction to hypothesis testing
 2.	Null and alternate hypothesis
